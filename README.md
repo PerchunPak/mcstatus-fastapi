@@ -8,10 +8,10 @@ Please see https://github.com/py-mine/mcstatus/issues/157#issuecomment-149869300
 > This is a super-simple app that is not intended to use in production. The code is simple because
 > I want to show, that the deployment process and other DevOPS work is easy with hostings.
 
-The app is hosted [here](https://mcstatusfastapi-1-h5748225.deta.app).
+The app is hosted [here](https://mcstatus-fastapi.perchun.it).
 
 ## How to use
 
 Replace `server_ip` with server IP (e.g. `hypixel.net`, `mc.hypixel.net:25565`, `123.123.123.123:45678`).
 
-`https://mcstatusfastapi-1-h5748225.deta.app/status/server_ip`
+`https://mcstatus-fastapi.perchun.it/status/server_ip`
